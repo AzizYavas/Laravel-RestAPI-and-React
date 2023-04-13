@@ -1,2 +1,2 @@
 # Laravel-RestAPI-and-React
-Laravel RestAPI -Sanctum  for backend , React-Axios for frontend
+Laravel RestAPI - Sanctum (Authentication) for backend , React-Axios-Tailwindcss for frontend
